@@ -1,0 +1,7 @@
+{
+  "name": "Manas - Mental Health Tracker",
+  "description": "An interactive mental health awareness and support application featuring mood tracking, AI-powered companionship, guided breathing exercises, and data-driven insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
